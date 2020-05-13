@@ -11,7 +11,7 @@
 #include <fcntl.h>
 #include <ctype.h>
 
-extern int error_check;
+extern int errcheck;
 
 /**
  * struct stack_s - doubly linked list representation of a stack (or queue)
